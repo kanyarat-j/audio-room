@@ -3,3 +3,5 @@ dist/
 .DS_Store
 *.local
 npm-debug.log*
+figma-plugin
+FIGMA_HANDOFF_SPEC.md
